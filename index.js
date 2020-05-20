@@ -9,7 +9,7 @@ function promptUser() {
     {
         type: "input",
         name: "image",
-        message: ""
+        message: "picture.jpg"
       },
       {
         type: "input",
@@ -29,7 +29,7 @@ function promptUser() {
       {
         type: "input",
         name: "github",
-        message: "Enter your GitHub Username"
+        message: "https://github.com/Vandana-Sivadasan"
       },
       {
         type: "input",
